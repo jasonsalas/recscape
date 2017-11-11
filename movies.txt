@@ -1,0 +1,500 @@
+1|Toy Story 
+2|Jumanji 
+3|Grumpier Old Men 
+4|Father of the Bride Part II 
+5|Heat 
+6|Sabrina 
+7|GoldenEye 
+8|American President, The
+9|Dracula: Dead and Loving It 
+10|Nixon 
+11|Casino 
+12|Sense and Sensibility 
+13|Four Rooms 
+14|Ace Ventura: When Nature Calls 
+15|Get Shorty 
+16|Copycat 
+17|Assassins 
+18|Powder 
+19|Leaving Las Vegas 
+20|City of Lost Children,
+21|Dangerous Minds 
+22|Twelve Monkeys 
+23|Babe 
+24|Dead Man Walking 
+25|Clueless 
+26|Mortal Kombat 
+27|To Die For 
+28|Seven 
+29|Pocahontas 
+30|Usual Suspects, The
+31|Mighty Aphrodite 
+32|Postman, The (Postino, Il)
+33|Indian in the Cupboard, The
+34|Mr. Holland's Opus 
+35|Bio-Dome 
+36|Friday 
+37|From Dusk Till Dawn 
+38|Screamers 
+39|Juror, The
+40|Things to Do in Denver When You're Dead 
+41|Black Sheep 
+42|Broken Arrow 
+43|Bottle Rocket 
+44|Happy Gilmore 
+45|Bridges of Madison County, The
+46|Muppet Treasure Island 
+47|Braveheart 
+48|Taxi Driver 
+49|Rumble in the Bronx
+50|Boomerang 
+51|Flirting With Disaster 
+52|Down Periscope 
+53|Up Close and Personal 
+54|Birdcage, The
+55|Brothers McMullen, The
+56|Bad Boys 
+57|Apollo 13 
+58|Rob Roy 
+59|Batman Forever 
+60|Casper 
+61|Congo 
+62|Crimson Tide 
+63|Crumb 
+64|Desperado 
+65|Die Hard: With a Vengeance 
+66|First Knight 
+67|Johnny Mnemonic 
+68|Judge Dredd 
+69|Kids 
+70|Mallrats 
+71|Net, The
+72|Nine Months 
+73|Showgirls 
+74|Smoke 
+75|Species 
+76|Strange Days 
+77|To Wong Foo, Thanks for Everything! Julie Newmar
+78|Under Siege 2: Dark Territory 
+79|Walk in the Clouds, A
+80|Waterworld 
+81|Before Sunrise 
+82|Billy Madison 
+83|Circle of Friends 
+84|Clerks 
+85|Don Juan DeMarco 
+86|Disclosure 
+87|Dolores Claiborne 
+88|Dumb & Dumber
+89|Night Rhythms 
+90|Ed Wood 
+91|French Kiss 
+92|Forget Paris 
+93|Hoop Dreams 
+94|Heavenly Creatures 
+95|Immortal Beloved 
+96|I.Q. 
+97|Interview with the Vampire 
+98|Junior 
+99|Star Wars 
+100|Little Women 
+101|Like Water for Chocolate 
+102|Legends of the Fall 
+103|Major Payne 
+104|Madness of King George, The
+105|Mary Shelley's Frankenstein 
+106|Milk Money 
+107|Miracle on 34th Street 
+108|Murder in the First 
+109|Nell 
+110|Natural Born Killers 
+111|Outbreak 
+112|The Professional 
+113|Pulp Fiction 
+114|Quiz Show 
+115|Quick and the Dead, The
+116|Blood In. Blood Out 
+117|Four Brothers 
+118|Transformers: The Movie 
+119|Specialist, The
+120|Stargate 
+121|Santa Clause, The
+122|Shawshank Redemption, The
+123|Shallow Grave 
+124|Tank Girl 
+125|Star Trek: Generations 
+126|Tommy Boy 
+127|What's Eating Gilbert Grape 
+128|Virtuosity 
+129|While You Were Sleeping 
+130|Muriel's Wedding 
+131|Ace Ventura: Pet Detective 
+132|Adventures of Priscilla, Queen of the Desert, The
+133|Bullets Over Broadway 
+134|Clear and Present Danger 
+135|Client, The
+136|Crow, The
+137|Flintstones, The
+138|Forrest Gump 
+139|Four Weddings and a Funeral 
+140|Jungle Book, The
+141|Lion King, The
+142|Mask, The
+143|Maverick 
+144|Naked Gun 33 1/3: The Final Insult 
+145|Paper, The
+146|Reality Bites 
+147|Red Rock West 
+148|River Wild, The
+149|Speed 
+150|Timecop 
+151|True Lies 
+152|Wolf 
+153|Highlander III: The Sorcerer 
+154|Addams Family Values 
+155|Airheads 
+156|Another Stakeout 
+157|Barcelona 
+158|Beverly Hills Cop III 
+159|Bronx Tale, A
+160|Carlito's Way 
+161|City Slickers II: The Legend of Curly's Gold 
+162|Cliffhanger 
+163|Coneheads 
+164|Dave 
+165|Dazed and Confused 
+166|Demolition Man 
+167|Farewell My Concubine 
+168|Firm, The
+169|Free Willy 
+170|Fugitive, The
+171|Hot Shots! Part Deux 
+172|Universal Soldier 
+173|Hudsucker Proxy, The
+174|In the Line of Fire 
+175|In the Name of the Father 
+176|What's Love Got to Do with It? 
+177|Jurassic Park 
+178|Last Action Hero 
+179|Man Without a Face, The
+180|Executive Decision 
+181|Much Ado About Nothing 
+182|Mrs. Doubtfire 
+183|Philadelphia 
+184|Piano, The
+185|Ref, The
+186|Remains of the Day, The
+187|RoboCop 3 
+188|Robin Hood: Men in Tights 
+189|Rudy 
+190|Schindler's List 
+191|Searching for Bobby Fischer 
+192|Secret Garden, The
+193|Serial Mom 
+194|Shadow, The
+195|Shadowlands 
+196|Short Cuts 
+197|Six Degrees of Separation 
+198|Sleepless in Seattle 
+199|Blade Runner 
+200|So I Married an Axe Murderer 
+201|Super Mario Bros. 
+202|Nightmare Before Christmas, The
+203|Three Musketeers, The
+204|Tombstone 
+205|True Romance 
+206|Welcome to the Dollhouse 
+207|Brady Bunch Movie, The
+208|Home Alone 
+209|Ghost 
+210|Aladdin 
+211|Terminator 2: Judgment Day 
+212|Dances with Wolves 
+213|Batman 
+214|Silence of the Lambs, The
+215|Snow White and the Seven Dwarfs 
+216|Beauty and the Beast 
+217|Pinocchio 
+218|Pretty Woman 
+219|One Fine Day 
+220|Fargo 
+221|Heavy Metal 
+222|Aristocats, The
+223|Primal Fear 
+224|Sgt. Bilko 
+225|Courage Under Fire 
+226|Mission: Impossible 
+227|Dragonheart 
+228|James and the Giant Peach 
+229|Mystery Science Theater 3000: The Movie 
+230|Space Jam 
+231|Mulholland Falls 
+232|Truth About Cats & Dogs, The
+233|Multiplicity 
+234|Wallace & Gromit 
+235|Craft, The
+236|Rock, The
+237|Twister 
+238|Barb Wire 
+239|Ghost in the Shell 
+240|Spy Hard 
+241|Wallace & Gromit: A Close Shave 
+242|Arrival, The
+243|Dr. Strangelove 
+244|Striptease 
+245|Jack 
+246|Trainspotting 
+247|Independence Day
+248|Hunchback of Notre Dame, The
+249|Cable Guy, The
+250|Kingpin 
+251|Eraser 
+252|Nutty Professor, The
+253|Frighteners, The
+254|Lone Star 
+255|Phenomenon 
+256|Time to Kill, A
+257|First Wives Club, The
+258|Ransom 
+259|Chain Reaction 
+260|Matilda 
+261|Emma 
+262|Escape from L.A. 
+263|Tin Cup 
+264|Godfather, The
+265|Island of Dr. Moreau, The
+266|Philadelphia Story, The
+267|Singin' in the Rain 
+268|Breakfast at Tiffany's 
+269|Vertigo 
+270|Rear Window 
+271|It Happened One Night 
+272|North by Northwest 
+273|Apartment, The
+274|Some Like It Hot 
+275|Casablanca 
+276|Maltese Falcon, The
+277|My Fair Lady 
+278|Sabrina 
+279|Roman Holiday 
+280|Wizard of Oz, The
+281|Gone with the Wind 
+282|Sunset Boulevard
+283|Citizen Kane 
+284|2001: A Space Odyssey 
+285|All About Eve 
+286|Rebecca 
+287|Notorious 
+288|To Catch a Thief 
+289|Father of the Bride 
+290|Adventures of Robin Hood, The
+291|His Girl Friday 
+292|It's a Wonderful Life 
+293|Mr. Smith Goes to Washington 
+294|Bringing Up Baby 
+295|39 Steps, The
+296|Night of the Living Dead 
+297|African Queen, The
+298|2 Days in the Valley 
+299|20,000 Leagues Under the Sea
+300|Cool Runnings 
+301|Cinderella 
+302|Sword in the Stone, The
+303|Robin Hood: Prince of Thieves 
+304|Mary Poppins 
+305|Dumbo 
+306|Pete's Dragon 
+307|Alice in Wonderland 
+308|Fox and the Hound, The
+309|Sound of Music, The
+310|Die Hard 
+311|Lawnmower Man, The
+312|Secrets & Lies 
+313|That Thing You Do! 
+314|Long Kiss Goodnight, The
+315|Ghost and the Darkness, The
+316|Romeo + Juliet 
+317|Swingers 
+318|Sleepers 
+319|Willy Wonka & the Chocolate Factory 
+320|Sleeper 
+321|Fish Called Wanda, A
+322|Monty Python's Life of Brian 
+323|Victor/Victoria 
+324|Bonnie and Clyde 
+325|Dial M for Murder 
+326|Dirty Dancing 
+327|Reservoir Dogs 
+328|Platoon 
+329|Weekend at Bernie's 
+330|Basic Instinct 
+331|Doors, The
+332|Crying Game, The
+333|Glengarry Glen Ross 
+334|E.T. the Extra-Terrestrial 
+335|Days of Thunder 
+336|Top Gun 
+337|Rebel Without a Cause 
+338|Streetcar Named Desire, A
+339|People vs. Larry Flynt, The
+340|On Golden Pond 
+341|Return of the Pink Panther, The
+342|Abyss, The
+343|Escape from New York 
+344|Monty Python and the Holy Grail 
+345|Wallace & Gromit: The Wrong Trousers 
+346|Cinema Paradiso 
+347|Delicatessen 
+348|Paths of Glory 
+349|Grifters, The
+350|English Patient, The
+351|My Left Foot 
+352|Sex, Lies, and Videotape
+353|Strictly Ballroom 
+354|One Flew Over the Cuckoo's Nest 
+355|Star Wars: The Empire Strikes Back 
+356|Princess Bride, The
+357|Raiders of the Lost Ark 
+358|Brazil 
+359|Aliens 
+360|Good, the Bad and the Ugly, The
+361|12 Angry Men 
+362|Lawrence of Arabia 
+363|Clockwork Orange, A
+364|To Kill a Mockingbird 
+365|Apocalypse Now 
+366|Once Upon a Time in the West 
+367|Star Wars: Return of the Jedi 
+368|Third Man, The
+369|Goodfellas 
+370|Alien 
+371|Army of Darkness 
+372|Ran 
+373|Psycho 
+374|Blues Brothers, The
+375|Godfather: Part II, The
+376|Full Metal Jacket 
+377|Grand Day Out with Wallace and Gromit, A
+378|Henry V 
+379|Amadeus 
+380|Once Upon a Time in America 
+381|Raging Bull 
+382|Annie Hall 
+383|Right Stuff, The
+384|Boot, Das
+385|Sting, The
+386|Harold and Maude 
+387|Seventh Seal, The
+388|Terminator, The
+389|Glory 
+390|Rosencrantz and Guildenstern Are Dead 
+391|Manhattan 
+392|Miller's Crossing 
+393|Dead Poets Society 
+394|Graduate, The
+395|Touch of Evil 
+396|Femme Nikita, La 
+397|Bridge on the River Kwai, The
+398|Chinatown 
+399|Day the Earth Stood Still, The
+400|Treasure of the Sierra Madre, The
+401|Duck Soup 
+402|Better Off Dead... 
+403|Shining, The
+404|Stand by Me 
+405|M 
+406|Evil Dead II (Dead by Dawn) 
+407|Great Escape, The
+408|Deer Hunter, The
+409|Groundhog Day 
+410|Unforgiven 
+411|Manchurian Candidate, The
+412|Arsenic and Old Lace 
+413|Back to the Future 
+414|Fried Green Tomatoes 
+415|Patton 
+416|Akira 
+417|Highlander 
+418|Cool Hand Luke 
+419|Young Frankenstein 
+420|Great Dictator, The
+421|Fantasia 
+422|High Noon 
+423|Big Sleep, The
+424|Heathers 
+425|Ben-Hur 
+426|This Is Spinal Tap 
+427|Indiana Jones and the Last Crusade 
+428|Being There 
+429|Gandhi 
+430|Room with a View, A
+431|Real Genius 
+432|Pink Floyd: The Wall 
+433|Killing Fields, The
+434|Forbidden Planet 
+435|Field of Dreams 
+436|Butch Cassidy and the Sundance Kid 
+437|When Harry Met Sally... 
+438|Alien3 
+439|American Werewolf in London, An
+440|Amityville Horror, The
+441|Birds, The
+442|Bram Stoker's Dracula 
+443|Candyman 
+444|Cape Fear 
+445|China O'Brien 
+446|Carrie 
+447|Nightmare on Elm Street, A
+448|Nosferatu 
+449|Omen, The
+450|Star Trek: First Contact 
+451|Watchmen 
+452|Tropic Thunder 
+453|Burn After Reading 
+454|Slumdog Millionaire 
+455|Gran Torino 
+456|Wrestler, The
+457|Curious Case of Benjamin Button, The
+458|Dr. Horrible's Sing-Along Blog 
+459|Inglourious Basterds 
+460|Moon 
+461|Star Trek 
+462|Up 
+463|Hangover, The
+464|(500) Days of Summer 
+465|District 9 
+466|Zombieland 
+467|Avatar 
+468|Sherlock Holmes 
+469|Shutter Island 
+470|Alice in Wonderland 
+471|How to Train Your Dragon 
+472|Kick-Ass 
+473|Iron Man 2 
+474|Toy Story 3 
+475|Inception 
+476|Scott Pilgrim vs. the World 
+477|Social Network, The
+478|Black Swan 
+479|King's Speech, The
+480|True Grit 
+481|Harry Potter and the Deathly Hallows: Part 2 
+482|Avengers, The
+483|Hunger Games, The
+484|Dark Knight Rises, The
+485|Intouchables 
+486|Skyfall 
+487|Argo 
+488|Django Unchained 
+489|Interstellar 
+490|I Am Legend 
+491|Juno 
+492|There Will Be Blood 
+493|Friday the 13th: The Final Chapter 
+494|Dark Knight, The
+495|Forgetting Sarah Marshall 
+496|Iron Man 
+497|Taken 
+498|Indiana Jones and the Kingdom of the Crystal Skull 
+499|Kung Fu Panda 
+500|Bourne Ultimatum, The
